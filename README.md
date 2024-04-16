@@ -20,19 +20,19 @@ This is a simple todo app built with React, Redux Toolkit, and Tailwind CSS.
 
 1. Clone the repository:
 
-git clone <repository-url>
+### `git clone <repository-url>`
 
 2. Navigate to the project directory:
 
-cd todo-app
+### `cd todo-app`
 
 3. Install dependencies:
 
-npm install
+### `npm install`
 
 4. Run the app:
 
-npm run dev
+### `npm run dev`
 
 5. Open the app in your browser:
 
@@ -47,19 +47,19 @@ This app is deployed using Vercel. To deploy the app to Vercel:
 
 2. Install the Vercel CLI:
 
-npm install -g vercel
+### `npm install -g vercel`
 
 3. Log in to your Vercel account using the CLI:
 
-vercel login
+### `vercel login`
 
 4. Navigate to the project directory:
 
-cd todo-app
+### `cd todo-app`
 
 5. Deploy the app to Vercel:
 
-vercel --prod
+### `vercel --prod`
 
 6. Follow the prompts to set up the deployment. Once the deployment is complete, you will receive a URL for your deployed app.
 
@@ -68,7 +68,3 @@ vercel --prod
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
