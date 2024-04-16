@@ -1,5 +1,5 @@
-import AddTodo from './components/AddTodo'
-import Todos from './components/Todos'
+import AddTodo from './components/TodoInput'
+import Todos from './components/TodoLists'
 
 function App() {
 
